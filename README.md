@@ -1,4 +1,4 @@
-# GAN Reading List
+# Generative Models Reading List
 
 ## Blog Posts
 - [Image Completion with Deep Learning in TensorFlow](https://bamos.github.io/2016/08/09/deep-completion/)
