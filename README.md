@@ -14,22 +14,33 @@
 
 ## Videos
 
+- [Short Explanation to GAN models](https://www.youtube.com/watch?v=deyOX6Mt_As) (Siraj Raval)
+
 - [OpenAI GAN Introduction Video ](https://www.youtube.com/watch?v=HN9NRhm9waY) (Ian Goodfellow)
 
+- [From Facebook AI research  - Adversarial Networks](https://www.youtube.com/watch?v=QPkb5VcgXAM) (Soumith Chintala)
 
-- [Short Explanation to GAN models](https://www.youtube.com/watch?v=deyOX6Mt_As) (Siraj Raval)
+- [NIPS 2016 Workshop on Adversarial Training](https://www.youtube.com/watch?v=X1mUN6dD8uE) (Soumith Chintala)
 
 ## Papers
 
-- Goodfellow, Ian. "**NIPS 2016 Tutorial: Generative Adversarial Networks.**" arXiv preprint arXiv:1701.00160 (2016). [[pdf]](https://arxiv.org/pdf/1701.00160)
+- Kingma, Diederik P., and Max Welling. "**Auto-encoding variational bayes**." arXiv preprint arXiv:1312.6114 (2013). [[pdf]](http://arxiv.org/pdf/1312.6114)
 
 - Goodfellow, Ian, et al. "**Generative adversarial nets**." Advances in Neural Information Processing Systems. 2014. [[pdf]](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
-- Denton, Emily L., Soumith Chintala, and Rob Fergus. "Deep Generative Image Models using a￼ Laplacian Pyramid of Adversarial Networks." Advances in neural information processing systems. 2015. [[pdf]](https://arxiv.org/pdf/1506.05751.pdf)
+
 - Gregor, Karol, et al. "**DRAW: A recurrent neural network for image generation**." arXiv preprint arXiv:1502.04623 (2015). [[pdf]](http://jmlr.org/proceedings/papers/v37/gregor15.pdf)
-- Kingma, Diederik P., and Max Welling. "**Auto-encoding variational bayes**." arXiv preprint arXiv:1312.6114 (2013). [[pdf]](http://arxiv.org/pdf/1312.6114)
+
+- Denton, Emily L., Soumith Chintala, and Rob Fergus. "Deep Generative Image Models using a￼ Laplacian Pyramid of Adversarial Networks." Advances in neural information processing systems. 2015. [[pdf]](https://arxiv.org/pdf/1506.05751.pdf)
+
 - Dosovitskiy, Alexey, Jost Tobias Springenberg, and Thomas Brox. "**Learning to generate chairs with convolutional neural networks.**" Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
+
+- Goodfellow, Ian. "**NIPS 2016 Tutorial: Generative Adversarial Networks.**" arXiv preprint arXiv:1701.00160 (2016). [[pdf]](https://arxiv.org/pdf/1701.00160)
+
+
 - Reed, Scott E., et al. "**Learning what and where to draw.**" Advances In Neural Information Processing Systems. 2016. [[pdf]](http://papers.nips.cc/paper/6110-learning-what-and-where-to-draw.pdf)
 - Reed, Scott, et al. "**Generative adversarial text to image synthesis.**" Proceedings of The 33rd International Conference on Machine Learning. Vol. 3. 2016. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/reed16.pdf)
 - Zhu, Jun-Yan, et al. "**Generative visual manipulation on the natural image manifold.**" European Conference on Computer Vision. Springer International Publishing, 2016. [[pdf]](https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/1609.03552)
 - Salimans, Tim, et al. "**Improved techniques for training gans.**" Advances in Neural Information Processing Systems. 2016. [[pdf]](http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans.pdf)
+- [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717)
+- [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
 
