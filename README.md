@@ -41,6 +41,7 @@
 - Reed, Scott, et al. "**Generative adversarial text to image synthesis.**" Proceedings of The 33rd International Conference on Machine Learning. Vol. 3. 2016. [[pdf]](http://www.jmlr.org/proceedings/papers/v48/reed16.pdf)
 - Zhu, Jun-Yan, et al. "**Generative visual manipulation on the natural image manifold.**" European Conference on Computer Vision. Springer International Publishing, 2016. [[pdf]](https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/1609.03552)
 - Salimans, Tim, et al. "**Improved techniques for training gans.**" Advances in Neural Information Processing Systems. 2016. [[pdf]](http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans.pdf)
+- Kim, Taeksoo, et al. "**Learning to Discover Cross-Domain Relations with Generative Adversarial Networks.**" arXiv preprint arXiv:1703.05192 (2017).[[pdf]](https://arxiv.org/pdf/1703.05192.pdf)
 - [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717)
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
 
